@@ -1,0 +1,1 @@
+[`FROM ghcr.io/wlib/ml-playground:main`](https://github.com/wlib/ml-playground/pkgs/container/ml-playground)
