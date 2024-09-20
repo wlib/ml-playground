@@ -1,0 +1,8 @@
+name: 'Make a jax-for-nvidida container'
+description: ''
+inputs:
+outputs:
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
